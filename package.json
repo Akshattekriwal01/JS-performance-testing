@@ -1,0 +1,15 @@
+{
+  "name": "testcrushly",
+  "version": "1.0.0",
+  "description": "a project to write all different types of tests",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^4.1.0"
+  }
+}
